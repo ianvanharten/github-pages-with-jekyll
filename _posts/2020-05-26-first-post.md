@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My First Post"
+date: 2020-05-26
 ---
 
 # Hello!
