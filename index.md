@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to my github page
 
-I'm glad you are here. I plan to talk about ...
+I am a coding student just getting started on github.
+I'll be using this space for my coding projects. Coming soon!
+
+Ian Van Harten
